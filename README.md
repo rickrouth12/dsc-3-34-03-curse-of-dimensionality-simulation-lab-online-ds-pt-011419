@@ -1,5 +1,5 @@
 
-# The Curse of Dimensionality - Lab
+# The Curse of Dimensionality
 
 ## Introduction
 
